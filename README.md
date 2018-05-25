@@ -2,30 +2,32 @@
 
 Screenshots of the game Pillar of Skylines. These were taken during development.
 
-[01](Screenshots/capture01.png)
+Batch 1 (25.05.2018)
 
-[02](Screenshots/Character_old_echoes.png)
+[01-01](Screenshots/01_01.png)
 
-[03](Screenshots/Character_turnaround.png)
+[01-02](Screenshots/01_02.png)
 
-[04](Screenshots/editor_01.PNG)
+[01-03](Screenshots/01_03.png)
 
-[05](Screenshots/image01.png)
+[01-04](Screenshots/01_04.png)
 
-[06](Screenshots/screen05.png)
+[01-05](Screenshots/01_05.png)
 
-[07](Screenshots/screen07.png)
+[01-06](Screenshots/01_06.png)
 
-[08](Screenshots/screen_01.PNG)
+[01-07](Screenshots/01_07.png)
 
-[09](Screenshots/screen_03.PNG)
+[01-08](Screenshots/01_08.png)
 
-[10](Screenshots/screen_05.PNG)
+[01-09](Screenshots/01_09.png)
 
-[11](Screenshots/screen_10.PNG)
+[01-10](Screenshots/01_10.png)
 
-[12](Screenshots/screen_12.PNG)
+[01-11](Screenshots/01_11.png)
 
-[13](Screenshots/screen_15.PNG)
+[01-12](Screenshots/01_12.png)
 
-[14](Screenshots/screen_17.PNG)
+[01-13](Screenshots/01_13.png)
+
+[01-14](Screenshots/01_14.png)
