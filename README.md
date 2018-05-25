@@ -8,7 +8,7 @@ Screenshots of the game Pillar of Skylines. These were taken during development.
 
 [03](Screenshots/Character_turnaround.png)
 
-[04](Screenshots/editor_01.png)
+[04](Screenshots/editor_01.PNG)
 
 [05](Screenshots/image01.png)
 
@@ -16,16 +16,16 @@ Screenshots of the game Pillar of Skylines. These were taken during development.
 
 [07](Screenshots/screen07.png)
 
-[08](Screenshots/screen_01.png)
+[08](Screenshots/screen_01.PNG)
 
-[09](Screenshots/screen_03.png)
+[09](Screenshots/screen_03.PNG)
 
-[10](Screenshots/screen_05.png)
+[10](Screenshots/screen_05.PNG)
 
-[11](Screenshots/screen_10.png)
+[11](Screenshots/screen_10.PNG)
 
-[12](Screenshots/screen_12.png)
+[12](Screenshots/screen_12.PNG)
 
-[13](Screenshots/screen_15.png)
+[13](Screenshots/screen_15.PNG)
 
-[14](Screenshots/screen_17.png)
+[14](Screenshots/screen_17.PNG)
